@@ -67,7 +67,7 @@ MYSQL_PASSWORD=secret
 Запустиk контейнеры командой:
 ``` docker-compose up -d ```
 И проверил работу сайта в браузере, перейдя по адресу ``` http://localhost ```.
-![scr1](Screenshot_2.png)
+![scr1](Screenshot_1.png)
 
 ### Ответьте на вопросы
 
